@@ -1,0 +1,14 @@
+name: bot-horizon
+repo: https://github.com/DakkuaDev/hermes-bot-horizon
+sha: afc93d67954ab7b9fca09afce5c2968abe104b00
+description: "Gamify your Hermes Agent bots — a tiny top-down town where your bots live, work and level up. Fleet presence, live states, XP, levels (Stone→Mythic), badges, pets, daily streak and routine quests. 100% local and free."
+maintainer: DakkuaDev
+tier: community
+category: desktop
+docs_url: https://github.com/DakkuaDev/hermes-bot-horizon
+platforms: []
+capabilities:
+  provides_tools: []
+  provides_hooks: []
+  provides_middleware: []
+  requires_env: []
